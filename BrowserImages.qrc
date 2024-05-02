@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="BrowserImages">
+    <file>refresh-arrow (1).png</file>
+    <file>refresh-arrow.png</file>
+    <file>arrow (2).png</file>
+    <file>arrow (1).png</file>
+    <file>arrow.png</file>
+    <file>right-arrow (1).png</file>
+    <file>right-arrow.png</file>
+  </qresource>
+</RCC>
